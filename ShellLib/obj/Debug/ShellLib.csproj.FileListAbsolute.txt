@@ -1,0 +1,8 @@
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\bin\Debug\ShellBasics.dll
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\bin\Debug\ShellBasics.pdb
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ResolveAssemblyReference.cache
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellLib.ApplicationDesktopToolbar.resources
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\GenerateResource.read.1.tlog
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\GenerateResource.write.1.tlog
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellBasics.dll
+I:\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellBasics.pdb
