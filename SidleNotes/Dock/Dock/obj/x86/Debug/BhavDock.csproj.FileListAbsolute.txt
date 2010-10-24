@@ -1,0 +1,26 @@
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\bin\Debug\BhavDock.exe
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\bin\Debug\BhavDock.pdb
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\BhavDock.exe
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\BhavDock.pdb
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\bin\Debug\BhavDock.exe.config
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\WindowsFormsApplication1.Bhavdock.resources
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\obj\x86\Debug\WindowsFormsApplication1.OptionDialog.resources
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\bin\Debug\ShellBasics.dll
+C:\Users\Bhavya Kashyap\documents\visual studio 2010\Projects\BhavDock\BhavDock\bin\Debug\ShellBasics.pdb
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\WindowsFormsApplication1.Bhavdock.resources
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\WindowsFormsApplication1.OptionDialog.resources
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\BhavDock.exe
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\obj\x86\Debug\BhavDock.pdb
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\bin\Debug\BhavDock.exe.config
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\bin\Debug\BhavDock.exe
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\bin\Debug\BhavDock.pdb
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\bin\Debug\ShellBasics.dll
+C:\cygwin\home\Bhavya Kashyap\SidleNotes\SidleNotes\Dock\Dock\bin\Debug\ShellBasics.pdb
